@@ -6,3 +6,5 @@ def order():
     return 3
 def product():
     return 4
+def pay():
+    return 5
