@@ -1,5 +1,8 @@
-def piro(order):
-    return 1 + 2 + order(order)
+<<<<<<< HEAD
+def piro(order, product):
+    return 1 + 2 + order(order) + product(product)
 
 def order():
     return 3
+def product():
+    return 4
